@@ -4,7 +4,7 @@
 
 animation live-action
 
-photo animation
+piano game that help learning keyboard typing incorperate with songs
 
 pyhton spider for job or rental/house searching
 
