@@ -36,4 +36,4 @@ Being able to input an image and convert it into a lifelike person that is indis
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-APIs that make this project easier and more feasible, along with libraries needed to be installed for creating a web interface, handling file uploads, processing images, displaying results, and providing download options on the website, as well as searching for diffuser models for image-to-image transformation.
+APIs that make this project easier and more feasible, along with packages/libraries needed to be installed for creating a web interface, handling file uploads, processing images, displaying results, and providing download options on the website, as well as searching for diffuser models for image-to-image transformation.
