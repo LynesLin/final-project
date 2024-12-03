@@ -32,15 +32,4 @@ if uploaded_image:
         result = pipe(prompt=prompt, image=anime_image, guidance_scale=7.0, num_inference_steps=25).images[0]
         
         # Display the result
-        st.image(result, caption="Realistic Transformation", use_container_width=True)
-
-        # Option to download the result
-        result.save("realistic_output.png")
-        with open("realistic_output.png", "rb") as file:
-            btn = st.download_button(
-                label="Download Realistic Image",
-                data=file,
-                file_name="realistic_character.png",
-                mime="image/png"
-            )
-            
+        st.image(result, caption="Realistic Transformation", use_container_width=True)            
