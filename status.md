@@ -18,12 +18,15 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-website successfully established using Streamlit, capable of uploading image 
+website established using Streamlit, capable of uploading image and processing
 
 #### What have you not done for your project yet?
 
-debugging: "bus error" for image converter
+successfully convert image
 
 #### What problems, if any, have you encountered?
 
-can't successfully convert anime image
+can't successfully convert anime image, don't really know what causes error and UserWarning
+
+debugging: "bus error" for image converter
+           UserWarning: resource_tracker
