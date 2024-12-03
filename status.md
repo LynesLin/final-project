@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Lynes Lin
 
 #### Your section leader's name
 
-TODO
+Lynes Lin
 
 #### Project title
 
-TODO
+
 
 ***
 
