@@ -22,7 +22,7 @@ website successfully established using Streamlit, capable of uploading image
 
 #### What have you not done for your project yet?
 
-debugging: "bus error"
+debugging: "bus error" for image converter
 
 #### What problems, if any, have you encountered?
 
