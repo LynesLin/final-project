@@ -10,7 +10,7 @@ Lynes Lin
 
 #### Project title
 
-
+AniMorph: Anime to Real-Life Converter
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+website successfully established using Streamlit, capable of uploading image 
 
 #### What have you not done for your project yet?
 
-TODO
+debugging: "bus error"
 
 #### What problems, if any, have you encountered?
 
-TODO
+can't successfully convert anime image
