@@ -1,6 +1,6 @@
 # install / update libraries before started
 # pip install streamlit diffusers tensorflow
-# pip install --upgrade diffusers streamlit tensorflow
+# pip install --upgrade streamlit diffusers tensorflow
 
 from asyncio import run
 import streamlit as st
@@ -8,7 +8,7 @@ from PIL import Image
 from diffusers import StableDiffusionPipeline
 
 # Load the pre-trained model
-model_name = "runwayml/stable-diffusion-v1-5"  # Or try "stabilityai/stable-diffusion-2-1"
+model_name = "runwayml/stable-diffusion-v1-5" 
 pipe = StableDiffusionPipeline.from_pretrained(model_name, framework="tf")
 pipe = pipe.to("cpu")
 
