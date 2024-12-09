@@ -1,6 +1,6 @@
 # install / update libraries before started
-# pip install streamlit diffusers tensorflow
-# pip install --upgrade streamlit diffusers tensorflow
+# pip install streamlit diffusers tensorflow pillow
+# pip install --upgrade streamlit diffusers tensorflow pillow
 
 from asyncio import run
 import streamlit as st
